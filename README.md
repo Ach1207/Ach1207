@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ach1207
 - 👀 I’m interested in learning new languages and new things
 - 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me felixachelin@gmail.com
 
 <!---
